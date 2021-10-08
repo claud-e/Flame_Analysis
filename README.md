@@ -10,4 +10,32 @@ The results were then exported as a csv file and imported to a jupyter notebook 
 
 ## Results:
 
+Summary statistics:
+
+A total of 53 votes were received, of which:
+
+|   | Vote | Gender |
+| ------------- | ------------- | ------------|
+| Top  | Yes  | Female |
+| Frequency | 28  | 45 |
+
+
+The gender distribution of voters is highly skewed towards women:
+![Voter Distribution](https://github.com/claud-e/Flame_Analysis/blob/main/Screen%20Shot%202021-10-07%20at%2022.44.02.png "Gender distribution").
+
+The voting distribution is fairly similar and not statistically significant (to be confirmed):
+![Vote Distribution](https://github.com/claud-e/Flame_Analysis/blob/main/Screen%20Shot%202021-10-07%20at%2022.43.37.png "Vote distribution").
+
+The drill-down of the vote distribution by gender is as follows:
+![Voter Distribution](https://github.com/claud-e/Flame_Analysis/blob/main/Screen%20Shot%202021-10-07%20at%2022.44.12.png "Gender and vote distribution").
+
+## Conclusion:
+
+This very limited poll has shown that the number of females that think a :fire: is indication of sexual intention is very similar to the ones that do not think so. While the males may be slightly skewed to thinking it is.
+
+Unflortunately the sample size and the skewed gender of the data does not allow for any propper analysis and discussion of the experiment.
+
+***FURTHER RESEARCH IS REQUIRED BEFORE ANY SOLID CONCLUSION CAN BE PRESENTED***
+
+
 
